@@ -1,0 +1,5 @@
+nc: 2
+names: ['with_helmet', 'without_helmet']
+train: D:\Helmet_detection\data\images\train
+val: D:\Helmet_detection\data\images\val
+test: D:\Helmet_detection\data\images\test
