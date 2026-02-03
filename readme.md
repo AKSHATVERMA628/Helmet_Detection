@@ -12,7 +12,7 @@ Your FastAPI service is deployed on **Render**.
 * **Base URL:**
 
   ```
-  https://<your-render-app>.onrender.com
+  (https://helmet-detection-gqfj.onrender.com)
   ```
 
 * **Health Check:**
@@ -24,7 +24,7 @@ Your FastAPI service is deployed on **Render**.
 * **Swagger Docs (UI):**
 
   ```
-  https://<your-render-app>.onrender.com/docs
+  (https://helmet-detection-gqfj.onrender.com/docs)
   ```
 
 The `/docs` endpoint provides an interactive interface where you can upload images and see detections instantly.
